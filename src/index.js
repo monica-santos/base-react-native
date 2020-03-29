@@ -8,6 +8,7 @@
 
 import React from 'react';
 import { StyleSheet, View, Text, StatusBar } from 'react-native';
+import './config/ReactotronConfig';
 
 import { Colors } from 'react-native/Libraries/NewAppScreen';
 
